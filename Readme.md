@@ -2,7 +2,7 @@
 
 
 ## Home Page
-![home](screenshots/1.png)
+![home](https://github.com/Nnodukamsy/E-commerce--main/blob/main/Screenshots/1.png)
 
 ## Product Page
-![product](screenshots/2.png)
+![product](https://github.com/Nnodukamsy/E-commerce--main/blob/main/Screenshots/2.png)
